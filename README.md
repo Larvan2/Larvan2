@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Larvan2/Larvan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Larvan2)
+![Larvan2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larvan2&theme=transparent&show_icons=true)
+
+
